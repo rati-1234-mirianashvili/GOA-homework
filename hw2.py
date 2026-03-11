@@ -1,5 +1,14 @@
-#მომხმარებელს შემოატანინეთ ორი რიცხვი (num1 და num2) და გაიგეთ რა იქნება მათი ნამრავლი
-num1=("20")
-num2=("10")
-product=20 * 10
-print(product)
+def hello():
+    print("hello")
+    hello()
+
+
+
+    def bye():
+        print("goodbye")
+        bye()
+
+
+def line():
+    print("------------")
+    line()
