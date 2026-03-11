@@ -1,3 +1,2 @@
-# კომენტარის სახით ახსენი რა არის განსხვავება for და while loops შორის
-#for loop გამოიყენება მაშინ როცა წინასწარ ვიცით რამდენჯერ უნდა შესრულდეს ციკლი
-#while loop გამოიყენება მაშინ როცა არ ვიცით ზუსტად რამდენჯერ შესრულდება ციკლი
+# კომენტარის სახით ახსენი რა არის სიები და რაში ვიყენებთ მათ
+#list aris monacemta tipi,romelic gvazdlevs sashualebas ert cvladshi shevinaxot ramdenime mnishvneloba ertad
