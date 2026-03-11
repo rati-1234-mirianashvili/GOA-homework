@@ -1,5 +1,4 @@
-#მომხმარებელს შემოატანინეთ მისი ასაკი და გაიგეთ რამდენჯერ მოთავსდება რიცხვი 10 მასში
-age=input("ramdeni wlis xar?")
-print(age)
-times= 14 // 10
-print(times)
+#)კომენტარებით ახსენით რას აკეთებს str(),int() და float() ფუნქციები.
+#str mnishvnelobas aqcevs teqstad
+#int mnishvnelobas aqcevs mtel ricxvad
+#float mnishvnelobas aqcevs aramtel ricxvad
